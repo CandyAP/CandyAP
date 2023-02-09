@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @CandyAP
-- 👀 I’m interested in UI/UX
-- 💞️ I’m looking to collaborate on Figma/Adobe XD
-- 📫 How to reach me https://www.instagram.com/cdy_ap/
+<div align="center">
+	<a href="https://imgur.com/7RYaYRP"><img src="https://i.imgur.com/7RYaYRP.png" title="source: imgur.com" /></a> 
+  <a href="https://www.youtube.com/watch?v=lic0oCDMfwk&list=RDlic0oCDMfwk&start_radio=1&ab_channel=blink182VEVO">
+  <strong>👽 LISTEN TO COOL MUSIC 👽</strong>
+</div>
 
-<!---
-CandyAP/CandyAP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
